@@ -1,0 +1,36 @@
+.logotipo{
+    width: 150px;
+    padding-left: 10%;
+}
+
+.nombreempresa{
+    color: #2bbc21;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+body{
+    background-color: #296991;
+    font-family: Arial;
+}
+
+.circular--portrait {
+    position: relative;
+    width: 250px;
+    height: 220px;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  
+.circular--portrait img {
+    width: 100%;
+    height: auto;
+ }
+
+.textocentrado {
+    text-align: center;
+}
+
+.floatboton {
+    float: right;
+}
